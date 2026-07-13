@@ -2,7 +2,7 @@
   "name": "CodeLens",
   "short_name": "CodeLens",
   "description": "Personal code editor with AI analysis and GitHub integration",
-  "start_url": "/",
+  "start_url": "https://maikonadvogadomg-alt.github.io/sk-codeleslns/",
   "display": "standalone",
   "background_color": "#0d1117",
   "theme_color": "#0d1117",
